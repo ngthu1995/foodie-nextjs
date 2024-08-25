@@ -16,3 +16,14 @@ A Next.js study case application, where foodies can share their favorite recipes
   - `revalidatePath()` to handle Next.js aggressive caching.
   - Dynamically generated metaData via `generateMetaData()`.
 - SQL (better-sqlite3)
+
+
+## Getting Started
+
+Run the development server:
+
+```bash
+npm install
+
+npm run dev
+```
